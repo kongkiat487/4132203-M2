@@ -84,4 +84,4 @@ switch ($method) {
 }
 
 echo json_encode($response);
-$conn->close();
+$conn->close(); 
